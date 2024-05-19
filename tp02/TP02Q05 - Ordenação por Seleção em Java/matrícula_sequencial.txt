@@ -1,0 +1,1 @@
+Matrícula: 746733	Numero de comparacoes: 0	Tempo de execucao: 0ms

@@ -1,0 +1,1 @@
+Matrícula: 746733	Numero de movimentações: 4575	Tempo de execucao: 1ms
